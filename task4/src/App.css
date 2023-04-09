@@ -1,0 +1,11 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(120deg, rgb(0, 192, 245) 20%, rgb(196, 46, 161) 50%, rgb(191, 69, 92) 80%);
+  background-attachment: fixed;
+}
+
+.calculator{
+  box-shadow: 1rem 1rem 2rem rgb(65, 50, 50);
+}
